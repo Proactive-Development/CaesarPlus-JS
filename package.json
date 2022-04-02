@@ -1,0 +1,11 @@
+{
+  "name": "caesarplus-js",
+  "version": "0.1.0",
+  "description": "An advanced caesar cypher javascript module",
+  "main": "src/caesarplus.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
