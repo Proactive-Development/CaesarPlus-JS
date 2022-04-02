@@ -13,15 +13,16 @@ It makes a unique encryption every time you encode a piece of data.
 To use CaesarPlus on a website you can include the script in the body of the html file.
 
 ```html
-<!-- CaesarPlus-JS Proactive Development -->
-<script src="" async></script>
+<script src="https://raw.githubusercontent.com/Proactive-Development/CaesarPlus-JS/main/src/web/caesarplus.js" async></script>
 ```
 
 ### Nodejs
 Download the repo and place the repo in the node_modules folder.
 
-```bash
+Or use the quick install script
 
+```bash
+mkdir node_modules && cd node_modules && wget https://github.com/Proactive-Development/CaesarPlus-JS/archive/refs/heads/main.zip && unzip main.zip && rm main.zip && mv CaesarPlus-JS-main CaesarPlus 
 ```
 
 ## Usage
