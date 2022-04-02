@@ -3,7 +3,7 @@ An advanced caesar cypher javascript module
 
 [Click Here to go to python version](https://github.com/Proactive-Development/CaesarPlus)
 ## What is CaesarPlus
-CaesarPlus is a advanced caesar cypher python module that is more secure than caesar cypher 
+CaesarPlus is a advanced caesar cypher JavaScript module that is more secure than caesar cypher 
 
 It makes a unique encryption every time you encode a piece of data.
 
