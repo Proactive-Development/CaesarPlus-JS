@@ -9,6 +9,10 @@ It makes a unique encryption every time you encode a piece of data.
 
 ## Setup
 
+
+```bash
+npm i CaesarPlus-JS
+```
 ### Frontend/HTML
 To use CaesarPlus on a website you can include the script in the body of the html file.
 
@@ -63,3 +67,5 @@ const caesarplus = require('caesarplus'); //First import the module
 
 console.log(caesarplus.decrypt(text, key));
 ```
+
+
