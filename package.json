@@ -4,7 +4,7 @@
   "description": "An advanced caesar cypher javascript module",
   "main": "src/caesarplus.js",
   "scripts": {
-    "test": "node_modules/.bin/jest"
+    "test": "./node_modules/.bin/jest"
   },
   "author": "Proactive Development",
   "license": "UNLICENSED",

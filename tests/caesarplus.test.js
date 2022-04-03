@@ -6,6 +6,7 @@ test('Encode Hello World ', () => {
     }
 });   
 test('Decode and encrypted message', () => {
+    var encrypted = caesarplus.encrypt("Hello World!");
     var decrypted =caesarplus.decrypt(JSON.parse(encrypted).text, JSON.parse(encrypted).key);
     if(JSON.parse(decrypted).text != "Hello World!") {
         fail("Decryption failed");
