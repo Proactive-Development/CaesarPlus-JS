@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Proactive-Development/Logos/main/CaesarPlus/CaesarPlusJS.png" width="50px"/> CaesarPlus For Javascript
 [![CodeFactor](https://www.codefactor.io/repository/github/proactive-development/caesarplus-js/badge)](https://www.codefactor.io/repository/github/proactive-development/caesarplus-js)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Proactive-Development/CaesarPlus-JS/Node.js%20CI?style=flat)
 
 An advanced caesar cypher javascript module
 
