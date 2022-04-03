@@ -1,4 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Proactive-Development/Logos/main/CaesarPlus/CaesarPlusJS.png" width="50px"/> CaesarPlus For Javascript
+[![CodeFactor](https://www.codefactor.io/repository/github/proactive-development/caesarplus-js/badge)](https://www.codefactor.io/repository/github/proactive-development/caesarplus-js)
+
 An advanced caesar cypher javascript module
 
 [Click Here to go to python version](https://github.com/Proactive-Development/CaesarPlus)
