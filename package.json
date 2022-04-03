@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node tests/test.js"
   },
-  "author": "",
-  "license": "UNLICENSED"
+  "author": "Proactive Development",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
