@@ -1,3 +1,4 @@
+// CaesarPlusJS for Javascript Valina
 function caesarShift(str, amount) {
     //Help From:https://gist.github.com/EvanHahn/2587465
     if (amount < 0) {

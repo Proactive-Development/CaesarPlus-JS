@@ -1,5 +1,4 @@
-'use strict';
- 
+// CaesarPlusJS for NodeJS
 module.exports = {
     encrypt,
     decrypt
