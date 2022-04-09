@@ -1,0 +1,16 @@
+{
+    "name": "CaesarPlus-JS",
+    "description": "An advanced caesar cypher javascript module",
+    "version": "0.1.0",
+    "main_file": "./src/caesarplus.js",
+    "author": "Proactive Development",
+    "license": "none",
+    "url": "none",
+    "email": "none",
+    "languages": [
+        "python"
+    ],
+    "actions": {
+        "test": "./node_modules/.bin/jest"
+    }
+}
