@@ -11,6 +11,6 @@
         "python"
     ],
     "actions": {
-        "test": "./node_modules/.bin/jest"
+        "test": "./node_modules/.bin/jest.cmd"
     }
 }
