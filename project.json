@@ -8,7 +8,8 @@
     "url": "none",
     "email": "none",
     "languages": [
-        "python"
+        "javascript",
+        "nodejs"
     ],
     "actions": {
         "test": "./node_modules/.bin/jest.cmd"
